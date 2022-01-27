@@ -1,0 +1,22 @@
+body{
+    font-family:"DejaVu Sans Mono; monospace"
+    font-size: 18px;
+    background-color:#FFFFF;
+    padding: 20px;
+    color:#92A355;
+    text-align:center;
+
+    #carouselExampleIndicators
+}
+h1 {font-size:24px; color:#418CA3}
+h2 {font-size:18px; color:#A37A52}
+h3 {font-size:16px; color: #b49c9a}
+nav{text-align:left;}
+footer{
+    background-color: dimgray;
+                color:white;
+                font-size: 16px;
+
+}
+table{text-align: center;
+align-self: center;}
